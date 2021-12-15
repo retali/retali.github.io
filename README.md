@@ -1,3 +1,4 @@
 # retali.github.io
 Pensamiento estrategico:
-PEstrategico.html
+https://retali.github.io/PEstrategico.html
+
